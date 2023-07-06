@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "601009567082",
+    "project_id": "video-streaming-app-d4a4f",
+    "storage_bucket": "video-streaming-app-d4a4f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:601009567082:android:7afe07b8cc49d7290b2113",
+        "android_client_info": {
+          "package_name": "com.saif.videostreamingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "601009567082-6pof0jvct3glf2feqgkih6cuafsc58mj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2Mb4t8EEXfjlZsfQtr10fNViuruqzigc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "601009567082-6pof0jvct3glf2feqgkih6cuafsc58mj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
